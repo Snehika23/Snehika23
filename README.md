@@ -95,14 +95,10 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 🔧 **Tech:** Python | Streamlit | Google Gemini AI | Pandas
 
 ---
+
 ## 📈 GitHub Activity
 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehika23&theme=dark)
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Snehika23&theme=nord&column=4&margin-w=15&margin-h=15)](https://github.com/Snehika23)
 
 ---
 
