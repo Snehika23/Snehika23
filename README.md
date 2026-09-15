@@ -101,7 +101,7 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 
 ## 🏆 GitHub Trophies
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehika23)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Snehika23&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Snehika23)
 
 ---
 
