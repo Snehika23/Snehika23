@@ -101,13 +101,15 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Snehika23&theme=dark&no-frame=true&row=1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehika23)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/snehika-amudalapalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehika-amudalapalli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehikaamudalapalli2002@gmail.com)
 
 💼 **Open to Data Analyst opportunities in the UK — feel free to reach out!**
+
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
