@@ -80,6 +80,21 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 
 ---
 
+---
+
+### 🤖 [All-in-One AI Agent](https://all-in-one-ai-agent-fj6jzph5wm9h6qshnnhheh.streamlit.app)
+> An AI-powered web app with 4 intelligent agents built using Python, Streamlit & Google Gemini AI
+
+- 📊 **Data Analyst** — Upload any CSV & get instant AI insights
+- 🔍 **Research Agent** — Research any topic and get structured summaries
+- 📧 **Email Agent** — Write professional emails in seconds
+- 💬 **Customer Support** — Get expert answers for any business question
+
+[![Open Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://all-in-one-ai-agent-fj6jzph5wm9h6qshnnhheh.streamlit.app)
+
+🔧 **Tech:** Python | Streamlit | Google Gemini AI | Pandas
+
+---
 ## 📊 GitHub Stats
 
 ![Snehika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehika23&show_icons=true&theme=dark&hide_border=true)
