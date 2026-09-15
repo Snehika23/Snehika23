@@ -99,9 +99,10 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 
 ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snehika23&theme=dark)
 
+
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Snehika23&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/Snehika23)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Snehika23&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/Snehika23)
 
 ---
 
