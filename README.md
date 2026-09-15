@@ -95,9 +95,9 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 🔧 **Tech:** Python | Streamlit | Google Gemini AI | Pandas
 
 ---
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Snehika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snehika23&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Snehika23&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snehika23&layout=compact&theme=dark&hide_border=true)
 
