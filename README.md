@@ -56,10 +56,11 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 ### 🧑‍💼 [HR Analytics Dashboard](https://github.com/Snehika23/HR-Analytics-Project)
 > End-to-end HR data analysis using MySQL and Power BI across 22,000+ employee records
 
-- Cleaned and transformed raw HR data in **MySQL** — standardised dates, handled NULLs, added calculated fields
+- Cleaned and transformed raw HR data in **MySQL**
 - Answered **15 business questions** covering gender, race, age, location, tenure, and termination trends
 - Built an interactive **Power BI dashboard** with bar charts, pie charts, and state-wise distribution visuals
 - Key finding: **74.98%** of employees work at HQ; **25-44** age group is the most represented
+- 🔗 **[View Dashboard](https://github.com/Snehika23/HR-Analytics-Project/blob/main/HR_Analytics_Dashboard.pdf)**
 - 🔧 **Tech:** MySQL 26.7 | MySQL Workbench | Power BI Desktop
 
 ---
