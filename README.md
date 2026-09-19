@@ -121,7 +121,7 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 - Built a full pipeline: text cleaning, TF-IDF vectorisation, and multi-class sentiment classification (positive / neutral / negative)
 - Trained and compared **Logistic Regression (73.4%)**, Random Forest (72.7%), and SVM (68.9%)
 - Visualised key sentiment drivers using **word clouds** and frequency distributions
-- 📘 **[View Full Project Report](https://github.com/Snehika23/Sentiment-Analysis/blob/main/Final%20Major%20Project%20Done%5B1%5D%20-%20Snehika_Final.docx)**
+- 📘 **[Download Full Project Report](https://github.com/Snehika23/Sentiment-Analysis/raw/main/Final%20Major%20Project%20Done%5B1%5D%20-%20Snehika_Final.docx)**
 - 📄 **[Read the Published Paper (JICR, ISSN: 0022-1945)](https://github.com/Snehika23/Sentiment-Analysis/blob/main/11-JICR-MARCH-2024.pdf)**
 - 🔧 **Tech:** Python | NLTK | Scikit-learn | TF-IDF | Matplotlib | Google Colab
 
