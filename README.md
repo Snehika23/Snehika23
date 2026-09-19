@@ -124,7 +124,7 @@ I'm actively seeking **Data Analyst** roles where I can apply my skills in:
 - 📘 **[View Full Project Report](https://github.com/Snehika23/Sentiment-Analysis/blob/main/Final_Major_Project_Done_1__-_Snehika_Final.docx)**
 - 📄 **[Read the Published Paper (JICR, ISSN: 0022-1945)](https://github.com/Snehika23/Sentiment-Analysis/blob/main/11-JICR-MARCH-2024.pdf)**
 - 🔧 **Tech:** Python | NLTK | Scikit-learn | TF-IDF | Matplotlib | Google Colab
-
+- 
 ---
 
 ## 📊 GitHub Stats
